@@ -4,7 +4,7 @@
 
 ## Pre-trained Models
 > Please download the data here:
-> [SID-Sony files](xxx)
+> [SID-Sony files](https://bit.ly/3N2lxEH)
 > and then decompress it to the "/data" folder.
 
 ## Requirements
